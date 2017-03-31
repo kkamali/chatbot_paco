@@ -1,0 +1,27 @@
+{
+  "name": "chatbot_paco",
+  "version": "1.0.0",
+  "description": "Chatbot test for Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkamali/chatbot_paco.git"
+  },
+  "keywords": [
+    "bot",
+    "web"
+  ],
+  "author": "Kathleen Kamali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkamali/chatbot_paco/issues"
+  },
+  "homepage": "https://github.com/kkamali/chatbot_paco#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
